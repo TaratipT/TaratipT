@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Taratip Techatadadech</h1>
 <h3 align="center">A student from IT KMITL</h3>
 
-<h3 align="left">💼 Experience</h3>
+<h3 align="left">Experience :</h3>
 <ul>
   <li>Staff : Pre-Programming 67</li>
   <li>TA (Teacher Assistance) : Data Structures and Algorithms 2/2567</li>
